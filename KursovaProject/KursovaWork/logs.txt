@@ -1,0 +1,755 @@
+2024-12-04 19:03:52.574 +02:00 [INF] Successfully checked if the database is created.
+2024-12-04 19:03:52.791 +02:00 [INF] No data is existing in the database.
+2024-12-04 19:03:52.880 +02:00 [INF] Adding each car.
+2024-12-04 19:03:52.969 +02:00 [INF] Adding each user.
+2024-12-04 19:03:53.042 +02:00 [INF] Hashing password.
+2024-12-04 19:03:53.045 +02:00 [INF] Returning hashed password.
+2024-12-04 19:03:53.047 +02:00 [INF] Hashing password.
+2024-12-04 19:03:53.048 +02:00 [INF] Returning hashed password.
+2024-12-04 19:03:53.049 +02:00 [INF] Hashing password.
+2024-12-04 19:03:53.050 +02:00 [INF] Returning hashed password.
+2024-12-04 19:03:53.051 +02:00 [INF] Hashing password.
+2024-12-04 19:03:53.052 +02:00 [INF] Returning hashed password.
+2024-12-04 19:03:53.052 +02:00 [INF] Hashing password.
+2024-12-04 19:03:53.053 +02:00 [INF] Returning hashed password.
+2024-12-04 19:03:53.053 +02:00 [INF] Hashing password.
+2024-12-04 19:03:53.054 +02:00 [INF] Returning hashed password.
+2024-12-04 19:03:53.054 +02:00 [INF] Hashing password.
+2024-12-04 19:03:53.055 +02:00 [INF] Returning hashed password.
+2024-12-04 19:03:53.056 +02:00 [INF] Hashing password.
+2024-12-04 19:03:53.056 +02:00 [INF] Returning hashed password.
+2024-12-04 19:03:53.057 +02:00 [INF] Hashing password.
+2024-12-04 19:03:53.057 +02:00 [INF] Returning hashed password.
+2024-12-04 19:03:53.058 +02:00 [INF] Hashing password.
+2024-12-04 19:03:53.059 +02:00 [INF] Returning hashed password.
+2024-12-04 19:03:53.060 +02:00 [INF] Hashing password.
+2024-12-04 19:03:53.060 +02:00 [INF] Returning hashed password.
+2024-12-04 19:03:53.060 +02:00 [INF] Hashing password.
+2024-12-04 19:03:53.061 +02:00 [INF] Returning hashed password.
+2024-12-04 19:03:53.061 +02:00 [INF] Hashing password.
+2024-12-04 19:03:53.062 +02:00 [INF] Returning hashed password.
+2024-12-04 19:03:53.063 +02:00 [INF] Hashing password.
+2024-12-04 19:03:53.063 +02:00 [INF] Returning hashed password.
+2024-12-04 19:03:53.064 +02:00 [INF] Hashing password.
+2024-12-04 19:03:53.065 +02:00 [INF] Returning hashed password.
+2024-12-04 19:03:53.065 +02:00 [INF] Hashing password.
+2024-12-04 19:03:53.066 +02:00 [INF] Returning hashed password.
+2024-12-04 19:03:53.067 +02:00 [INF] Hashing password.
+2024-12-04 19:03:53.067 +02:00 [INF] Returning hashed password.
+2024-12-04 19:03:53.068 +02:00 [INF] Hashing password.
+2024-12-04 19:03:53.069 +02:00 [INF] Returning hashed password.
+2024-12-04 19:03:53.069 +02:00 [INF] Hashing password.
+2024-12-04 19:03:53.070 +02:00 [INF] Returning hashed password.
+2024-12-04 19:03:53.070 +02:00 [INF] Hashing password.
+2024-12-04 19:03:53.071 +02:00 [INF] Returning hashed password.
+2024-12-04 19:03:53.193 +02:00 [INF] Data was successfully added.
+2024-12-04 19:03:54.530 +02:00 [INF] Redirecting to the home page
+2024-12-04 19:03:54.647 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:04:12.995 +02:00 [INF] Redirecting to the login page
+2024-12-04 19:04:13.010 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:04:29.751 +02:00 [INF] Entering method to check login data
+2024-12-04 19:04:29.781 +02:00 [INF] Hashing password.
+2024-12-04 19:04:29.784 +02:00 [INF] Returning hashed password.
+2024-12-04 19:04:29.916 +02:00 [INF] Incorrect email or password entered
+2024-12-04 19:04:35.747 +02:00 [INF] Entering method to check login data
+2024-12-04 19:04:35.805 +02:00 [INF] Hashing password.
+2024-12-04 19:04:35.806 +02:00 [INF] Returning hashed password.
+2024-12-04 19:04:35.816 +02:00 [INF] Incorrect email or password entered
+2024-12-04 19:04:41.068 +02:00 [INF] Entering method to check login data
+2024-12-04 19:04:41.070 +02:00 [INF] Hashing password.
+2024-12-04 19:04:41.071 +02:00 [INF] Returning hashed password.
+2024-12-04 19:04:41.075 +02:00 [INF] Incorrect email or password entered
+2024-12-04 19:04:42.927 +02:00 [INF] Entering method to check login data
+2024-12-04 19:04:42.932 +02:00 [INF] Hashing password.
+2024-12-04 19:04:42.933 +02:00 [INF] Returning hashed password.
+2024-12-04 19:04:42.937 +02:00 [INF] Incorrect email or password entered
+2024-12-04 19:04:44.522 +02:00 [INF] Entering method to check login data
+2024-12-04 19:04:44.524 +02:00 [INF] Hashing password.
+2024-12-04 19:04:44.525 +02:00 [INF] Returning hashed password.
+2024-12-04 19:04:44.529 +02:00 [INF] Incorrect email or password entered
+2024-12-04 19:05:02.794 +02:00 [INF] Entering method to check login data
+2024-12-04 19:05:02.796 +02:00 [INF] Hashing password.
+2024-12-04 19:05:02.797 +02:00 [INF] Returning hashed password.
+2024-12-04 19:05:02.802 +02:00 [INF] Incorrect email or password entered
+2024-12-04 19:05:05.372 +02:00 [INF] Entering method to check login data
+2024-12-04 19:05:05.374 +02:00 [INF] Hashing password.
+2024-12-04 19:05:05.374 +02:00 [INF] Returning hashed password.
+2024-12-04 19:05:05.380 +02:00 [INF] Incorrect email or password entered
+2024-12-04 19:05:05.923 +02:00 [INF] Entering method to check login data
+2024-12-04 19:05:05.926 +02:00 [INF] Hashing password.
+2024-12-04 19:05:05.927 +02:00 [INF] Returning hashed password.
+2024-12-04 19:05:05.932 +02:00 [INF] Incorrect email or password entered
+2024-12-04 19:05:08.587 +02:00 [INF] Entering method to check login data
+2024-12-04 19:05:08.589 +02:00 [INF] Hashing password.
+2024-12-04 19:05:08.590 +02:00 [INF] Returning hashed password.
+2024-12-04 19:05:08.593 +02:00 [INF] Incorrect email or password entered
+2024-12-04 19:05:10.668 +02:00 [INF] Redirecting to the sign-up page
+2024-12-04 19:05:10.676 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:05:29.222 +02:00 [INF] Entering user registration data verification method
+2024-12-04 19:05:29.224 +02:00 [INF] Data did not pass validation
+2024-12-04 19:05:30.362 +02:00 [INF] Entering user registration data verification method
+2024-12-04 19:05:30.364 +02:00 [INF] Retrieving user by their email
+2024-12-04 19:05:30.399 +02:00 [INF] Successfully checked if email already exists
+2024-12-04 19:05:30.400 +02:00 [INF] Entering method to send verification code
+2024-12-04 19:05:30.401 +02:00 [INF] Sending email notification to user's email
+2024-12-04 19:05:30.792 +02:00 [INF] Entering the email sending method
+2024-12-04 19:05:30.867 +02:00 [INF] Email data set for sending
+2024-12-04 19:05:32.141 +02:00 [INF] Entering user registration data verification method
+2024-12-04 19:05:32.142 +02:00 [INF] Retrieving user by their email
+2024-12-04 19:05:32.147 +02:00 [INF] Successfully checked if email already exists
+2024-12-04 19:05:32.148 +02:00 [INF] Entering method to send verification code
+2024-12-04 19:05:32.149 +02:00 [INF] Sending email notification to user's email
+2024-12-04 19:05:32.149 +02:00 [INF] Entering the email sending method
+2024-12-04 19:05:32.150 +02:00 [INF] Email data set for sending
+2024-12-04 19:06:32.322 +02:00 [INF] Entering user registration data verification method
+2024-12-04 19:06:32.323 +02:00 [INF] Entering user registration data verification method
+2024-12-04 19:06:32.325 +02:00 [INF] Retrieving user by their email
+2024-12-04 19:06:32.322 +02:00 [INF] Entering user registration data verification method
+2024-12-04 19:06:32.326 +02:00 [INF] Retrieving user by their email
+2024-12-04 19:06:32.327 +02:00 [INF] Retrieving user by their email
+2024-12-04 19:06:32.330 +02:00 [INF] Entering user registration data verification method
+2024-12-04 19:06:32.330 +02:00 [INF] Successfully checked if email already exists
+2024-12-04 19:06:32.331 +02:00 [INF] Data did not pass validation
+2024-12-04 19:06:32.333 +02:00 [INF] Entering method to send verification code
+2024-12-04 19:06:32.333 +02:00 [INF] Successfully checked if email already exists
+2024-12-04 19:06:32.340 +02:00 [INF] Sending email notification to user's email
+2024-12-04 19:06:32.342 +02:00 [INF] Successfully checked if email already exists
+2024-12-04 19:06:32.343 +02:00 [INF] Entering the email sending method
+2024-12-04 19:06:32.342 +02:00 [INF] Entering method to send verification code
+2024-12-04 19:06:32.344 +02:00 [INF] Entering method to send verification code
+2024-12-04 19:06:32.345 +02:00 [INF] Email data set for sending
+2024-12-04 19:06:32.346 +02:00 [INF] Sending email notification to user's email
+2024-12-04 19:06:32.346 +02:00 [INF] Sending email notification to user's email
+2024-12-04 19:06:32.348 +02:00 [INF] Entering the email sending method
+2024-12-04 19:06:32.349 +02:00 [INF] Entering the email sending method
+2024-12-04 19:06:32.350 +02:00 [INF] Email data set for sending
+2024-12-04 19:06:32.351 +02:00 [INF] Email data set for sending
+2024-12-04 19:07:06.892 +02:00 [INF] Entering user registration data verification method
+2024-12-04 19:07:06.931 +02:00 [INF] Retrieving user by their email
+2024-12-04 19:07:06.939 +02:00 [INF] Successfully checked if email already exists
+2024-12-04 19:07:06.940 +02:00 [INF] Entering method to send verification code
+2024-12-04 19:07:06.941 +02:00 [INF] Sending email notification to user's email
+2024-12-04 19:07:06.941 +02:00 [INF] Entering the email sending method
+2024-12-04 19:07:06.943 +02:00 [INF] Email data set for sending
+2024-12-04 19:07:18.187 +02:00 [INF] Entering user registration data verification method
+2024-12-04 19:07:18.190 +02:00 [INF] Retrieving user by their email
+2024-12-04 19:07:18.194 +02:00 [INF] Successfully checked if email already exists
+2024-12-04 19:07:18.195 +02:00 [INF] Entering method to send verification code
+2024-12-04 19:07:18.195 +02:00 [INF] Sending email notification to user's email
+2024-12-04 19:07:18.196 +02:00 [INF] Entering the email sending method
+2024-12-04 19:07:18.197 +02:00 [INF] Email data set for sending
+2024-12-04 19:07:38.968 +02:00 [INF] Entering user registration data verification method
+2024-12-04 19:07:38.969 +02:00 [INF] Retrieving user by their email
+2024-12-04 19:07:38.974 +02:00 [INF] Successfully checked if email already exists
+2024-12-04 19:07:38.975 +02:00 [INF] Entering method to send verification code
+2024-12-04 19:07:38.976 +02:00 [INF] Sending email notification to user's email
+2024-12-04 19:07:38.977 +02:00 [INF] Entering the email sending method
+2024-12-04 19:07:38.978 +02:00 [INF] Email data set for sending
+2024-12-04 19:08:29.926 +02:00 [INF] Entering user registration data verification method
+2024-12-04 19:08:29.928 +02:00 [INF] Retrieving user by their email
+2024-12-04 19:08:29.938 +02:00 [INF] Successfully checked if email already exists
+2024-12-04 19:08:29.939 +02:00 [INF] Entering method to send verification code
+2024-12-04 19:08:29.940 +02:00 [INF] Sending email notification to user's email
+2024-12-04 19:08:29.941 +02:00 [INF] Entering the email sending method
+2024-12-04 19:08:29.942 +02:00 [INF] Email data set for sending
+2024-12-04 19:08:48.724 +02:00 [INF] Entering user registration data verification method
+2024-12-04 19:08:48.725 +02:00 [INF] Retrieving user by their email
+2024-12-04 19:08:48.734 +02:00 [INF] Successfully checked if email already exists
+2024-12-04 19:08:48.735 +02:00 [INF] Entering method to send verification code
+2024-12-04 19:08:48.736 +02:00 [INF] Sending email notification to user's email
+2024-12-04 19:08:48.736 +02:00 [INF] Entering the email sending method
+2024-12-04 19:08:48.737 +02:00 [INF] Email data set for sending
+2024-12-04 19:11:00.754 +02:00 [INF] Successfully checked if the database is created.
+2024-12-04 19:11:00.935 +02:00 [INF] Data already exists in the database.
+2024-12-04 19:11:01.519 +02:00 [INF] Redirecting to the home page
+2024-12-04 19:11:01.592 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:11:08.868 +02:00 [INF] Redirecting to the login page
+2024-12-04 19:11:08.879 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:11:10.349 +02:00 [INF] Redirecting to the sign-up page
+2024-12-04 19:11:10.356 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:11:16.939 +02:00 [INF] Redirecting to the sign-up page
+2024-12-04 19:11:16.941 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:11:31.426 +02:00 [INF] Entering user registration data verification method
+2024-12-04 19:11:31.427 +02:00 [INF] Retrieving user by their email
+2024-12-04 19:11:31.557 +02:00 [INF] Successfully checked if email already exists
+2024-12-04 19:11:31.558 +02:00 [INF] Entering method to send verification code
+2024-12-04 19:11:31.559 +02:00 [INF] Sending email notification to user's email
+2024-12-04 19:11:31.578 +02:00 [INF] Entering the email sending method
+2024-12-04 19:11:31.640 +02:00 [INF] Email data set for sending
+2024-12-04 19:11:33.493 +02:00 [INF] Email sent successfully
+2024-12-04 19:11:33.515 +02:00 [INF] Navigating to the code entry page
+2024-12-04 19:11:33.521 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:12:32.208 +02:00 [INF] Entering method to confirm user registration and validate verification code
+2024-12-04 19:12:32.210 +02:00 [INF] Entering loop to form a concatenated string of 4 substrings
+2024-12-04 19:12:32.489 +02:00 [INF] Hashing password.
+2024-12-04 19:12:32.490 +02:00 [INF] Returning hashed password.
+2024-12-04 19:12:32.492 +02:00 [INF] Hashing password.
+2024-12-04 19:12:32.493 +02:00 [INF] Returning hashed password.
+2024-12-04 19:12:32.526 +02:00 [INF] User successfully added
+2024-12-04 19:12:32.527 +02:00 [INF] User successfully registered, redirecting to the main page
+2024-12-04 19:12:32.542 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:12:36.249 +02:00 [INF] Redirecting to the home page
+2024-12-04 19:12:36.250 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:12:39.231 +02:00 [INF] Redirecting to the login page
+2024-12-04 19:12:39.233 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:12:45.939 +02:00 [INF] Entering method to check login data
+2024-12-04 19:12:45.945 +02:00 [INF] Hashing password.
+2024-12-04 19:12:45.946 +02:00 [INF] Returning hashed password.
+2024-12-04 19:12:46.020 +02:00 [INF] User successfully logged into the account
+2024-12-04 19:12:46.032 +02:00 [INF] Redirecting to the home page
+2024-12-04 19:12:46.034 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:12:51.050 +02:00 [INF] Transitioning to payment methods page method
+2024-12-04 19:12:51.052 +02:00 [INF] Fields for adding a card are excluded during loading
+2024-12-04 19:12:51.055 +02:00 [INF] Fetching user identifier
+2024-12-04 19:12:51.057 +02:00 [INF] User is logged in
+2024-12-04 19:12:51.058 +02:00 [INF] Checking if the user has a connected payment method
+2024-12-04 19:12:51.082 +02:00 [INF] Transitioning to payment methods page
+2024-12-04 19:12:51.092 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:12:54.186 +02:00 [INF] Entering method to redirect to the order list page
+2024-12-04 19:12:54.187 +02:00 [INF] Retrieving identifier of logged-in user
+2024-12-04 19:12:54.188 +02:00 [INF] User is logged in
+2024-12-04 19:12:54.188 +02:00 [INF] Retrieving orders associated with logged-in user
+2024-12-04 19:12:54.227 +02:00 [INF] Redirecting to the order list page
+2024-12-04 19:12:54.234 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:13:07.696 +02:00 [INF] Redirecting to the home page
+2024-12-04 19:13:07.697 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:13:12.902 +02:00 [INF] Entering Car method
+2024-12-04 19:13:12.904 +02:00 [INF] Retrieved car information by its make, model, and year of manufacture
+2024-12-04 19:13:13.015 +02:00 [INF] Car found, navigating to car page
+2024-12-04 19:13:13.028 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:13:17.877 +02:00 [INF] Entering method to check payment feasibility
+2024-12-04 19:13:17.878 +02:00 [INF] Fetching user ID
+2024-12-04 19:13:17.879 +02:00 [INF] Retrieving identifier of logged-in user
+2024-12-04 19:13:17.880 +02:00 [INF] User is logged in
+2024-12-04 19:13:17.881 +02:00 [INF] Retrieving logged-in user by their identifier
+2024-12-04 19:13:17.890 +02:00 [INF] Fetching user payment method data
+2024-12-04 19:13:17.891 +02:00 [INF] Fetching user identifier
+2024-12-04 19:13:17.892 +02:00 [INF] User is logged in
+2024-12-04 19:13:17.893 +02:00 [INF] Fetching payment method of the logged-in user
+2024-12-04 19:13:17.902 +02:00 [INF] User has not added a payment method
+2024-12-04 19:13:17.907 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:13:20.551 +02:00 [INF] Transitioning to payment methods page method
+2024-12-04 19:13:20.552 +02:00 [INF] Fields for adding a card are excluded during loading
+2024-12-04 19:13:20.553 +02:00 [INF] Fetching user identifier
+2024-12-04 19:13:20.554 +02:00 [INF] User is logged in
+2024-12-04 19:13:20.555 +02:00 [INF] Checking if the user has a connected payment method
+2024-12-04 19:13:20.562 +02:00 [INF] Transitioning to payment methods page
+2024-12-04 19:13:20.564 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:13:54.430 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:13:54.431 +02:00 [INF] Data did not pass verification
+2024-12-04 19:13:54.432 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:13:56.882 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:13:56.883 +02:00 [INF] Data did not pass verification
+2024-12-04 19:13:56.884 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:01.428 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:01.429 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:01.429 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:04.650 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:04.651 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:04.652 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:06.665 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:06.665 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:06.667 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:12.471 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:12.472 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:12.473 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:16.581 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:16.582 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:16.583 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:17.301 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:17.302 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:17.303 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:17.920 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:17.921 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:17.922 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:18.126 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:18.127 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:18.127 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:18.308 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:18.309 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:18.309 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:18.469 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:18.470 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:18.471 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:18.645 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:18.646 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:18.647 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:18.822 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:18.823 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:18.824 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:18.992 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:18.993 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:18.994 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:19.171 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:19.172 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:19.173 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:25.313 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:25.314 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:25.316 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:25.761 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:25.762 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:25.763 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:25.953 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:25.954 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:25.955 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:26.103 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:26.104 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:26.106 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:27.599 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:27.600 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:27.601 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:27.910 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:27.910 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:27.911 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:28.077 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:28.078 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:28.078 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:28.241 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:28.243 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:28.243 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:28.413 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:28.414 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:28.414 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:28.569 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:28.569 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:28.570 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:28.745 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:28.746 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:28.747 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:35.426 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:35.427 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:35.428 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:35.657 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:35.658 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:35.659 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:35.840 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:35.840 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:35.841 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:35.977 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:35.978 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:35.979 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:40.683 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:40.684 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:40.685 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:40.891 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:40.892 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:40.893 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:41.050 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:41.051 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:41.052 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:41.171 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:41.172 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:41.173 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:41.327 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:41.328 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:41.329 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:45.015 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:45.016 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:45.017 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:45.403 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:45.404 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:45.405 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:45.707 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:45.708 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:45.709 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:47.910 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:47.911 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:47.912 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:48.066 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:48.067 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:48.068 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:49.250 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:49.251 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:49.252 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:52.430 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:52.431 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:52.432 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:55.162 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:55.163 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:55.164 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:56.506 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:56.507 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:56.508 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:14:59.957 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:14:59.957 +02:00 [INF] Data did not pass verification
+2024-12-04 19:14:59.958 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:15:00.355 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:15:00.356 +02:00 [INF] Data did not pass verification
+2024-12-04 19:15:00.356 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:15:03.657 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:15:03.658 +02:00 [INF] Data did not pass verification
+2024-12-04 19:15:03.658 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:15:04.013 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:15:04.014 +02:00 [INF] Data did not pass verification
+2024-12-04 19:15:04.014 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:15:04.174 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:15:04.175 +02:00 [INF] Data did not pass verification
+2024-12-04 19:15:04.176 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:15:05.795 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:15:05.796 +02:00 [INF] Data did not pass verification
+2024-12-04 19:15:05.797 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:15:06.087 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:15:06.088 +02:00 [INF] Data did not pass verification
+2024-12-04 19:15:06.088 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:15:08.651 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:15:08.652 +02:00 [INF] Data did not pass verification
+2024-12-04 19:15:08.653 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:15:08.918 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:15:08.918 +02:00 [INF] Data did not pass verification
+2024-12-04 19:15:08.919 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:15:09.088 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:15:09.089 +02:00 [INF] Data did not pass verification
+2024-12-04 19:15:09.090 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:15:09.263 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:15:09.264 +02:00 [INF] Data did not pass verification
+2024-12-04 19:15:09.265 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:15:09.412 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:15:09.412 +02:00 [INF] Data did not pass verification
+2024-12-04 19:15:09.413 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:15:24.363 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:15:24.364 +02:00 [INF] Data did not pass verification
+2024-12-04 19:15:24.365 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:15:28.519 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:15:28.520 +02:00 [INF] Data did not pass verification
+2024-12-04 19:15:28.521 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:15:29.261 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:15:29.262 +02:00 [INF] Data did not pass verification
+2024-12-04 19:15:29.262 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:15:37.594 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:15:37.595 +02:00 [INF] Data did not pass verification
+2024-12-04 19:15:37.595 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:15:49.093 +02:00 [INF] Redirecting to the home page
+2024-12-04 19:15:49.094 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:15:55.991 +02:00 [INF] Transitioning to payment methods page method
+2024-12-04 19:15:55.992 +02:00 [INF] Fields for adding a card are excluded during loading
+2024-12-04 19:15:55.993 +02:00 [INF] Fetching user identifier
+2024-12-04 19:15:55.993 +02:00 [INF] User is logged in
+2024-12-04 19:15:55.994 +02:00 [INF] Checking if the user has a connected payment method
+2024-12-04 19:15:56.000 +02:00 [INF] Transitioning to payment methods page
+2024-12-04 19:15:56.001 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:16:07.413 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:16:07.414 +02:00 [INF] Data did not pass verification
+2024-12-04 19:16:07.415 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:16:07.805 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:16:07.806 +02:00 [INF] Data did not pass verification
+2024-12-04 19:16:07.807 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:16:08.019 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:16:08.020 +02:00 [INF] Data did not pass verification
+2024-12-04 19:16:08.021 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:16:08.168 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:16:08.169 +02:00 [INF] Data did not pass verification
+2024-12-04 19:16:08.169 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:16:08.310 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:16:08.311 +02:00 [INF] Data did not pass verification
+2024-12-04 19:16:08.311 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:16:09.097 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:16:09.098 +02:00 [INF] Data did not pass verification
+2024-12-04 19:16:09.099 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:16:09.304 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:16:09.305 +02:00 [INF] Data did not pass verification
+2024-12-04 19:16:09.306 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:16:09.513 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:16:09.513 +02:00 [INF] Data did not pass verification
+2024-12-04 19:16:09.514 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:16:13.394 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:16:13.395 +02:00 [INF] Data did not pass verification
+2024-12-04 19:16:13.396 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:16:20.309 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:16:20.310 +02:00 [INF] Data did not pass verification
+2024-12-04 19:16:20.311 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:16:20.768 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:16:20.768 +02:00 [INF] Data did not pass verification
+2024-12-04 19:16:20.769 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:16:21.117 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:16:21.117 +02:00 [INF] Data did not pass verification
+2024-12-04 19:16:21.118 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:16:21.454 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:16:21.454 +02:00 [INF] Data did not pass verification
+2024-12-04 19:16:21.455 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:16:21.760 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:16:21.760 +02:00 [INF] Data did not pass verification
+2024-12-04 19:16:21.761 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:16:22.032 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:16:22.033 +02:00 [INF] Data did not pass verification
+2024-12-04 19:16:22.034 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:16:22.318 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:16:22.319 +02:00 [INF] Data did not pass verification
+2024-12-04 19:16:22.320 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:16:22.676 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:16:22.676 +02:00 [INF] Data did not pass verification
+2024-12-04 19:16:22.677 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:16:22.927 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:16:22.928 +02:00 [INF] Data did not pass verification
+2024-12-04 19:16:22.929 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:16:23.204 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:16:23.205 +02:00 [INF] Data did not pass verification
+2024-12-04 19:16:23.206 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:16:51.628 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:16:51.628 +02:00 [INF] Data did not pass verification
+2024-12-04 19:16:51.629 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:16:52.017 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:16:52.018 +02:00 [INF] Data did not pass verification
+2024-12-04 19:16:52.019 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:16:52.210 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:16:52.210 +02:00 [INF] Data did not pass verification
+2024-12-04 19:16:52.211 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:16:53.855 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:16:53.856 +02:00 [INF] Data did not pass verification
+2024-12-04 19:16:53.856 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:16:54.070 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:16:54.071 +02:00 [INF] Data did not pass verification
+2024-12-04 19:16:54.072 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:16:54.222 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:16:54.223 +02:00 [INF] Data did not pass verification
+2024-12-04 19:16:54.224 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:16:54.340 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:16:54.341 +02:00 [INF] Data did not pass verification
+2024-12-04 19:16:54.342 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:16:54.467 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:16:54.468 +02:00 [INF] Data did not pass verification
+2024-12-04 19:16:54.469 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:16:54.598 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:16:54.599 +02:00 [INF] Data did not pass verification
+2024-12-04 19:16:54.599 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:16:57.875 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:16:57.876 +02:00 [INF] Data did not pass verification
+2024-12-04 19:16:57.877 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:16:58.039 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:16:58.040 +02:00 [INF] Data did not pass verification
+2024-12-04 19:16:58.041 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:16:58.177 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:16:58.178 +02:00 [INF] Data did not pass verification
+2024-12-04 19:16:58.179 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:16:58.312 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:16:58.313 +02:00 [INF] Data did not pass verification
+2024-12-04 19:16:58.314 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:16:59.570 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:16:59.571 +02:00 [INF] Data did not pass verification
+2024-12-04 19:16:59.572 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:16:59.732 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:16:59.733 +02:00 [INF] Data did not pass verification
+2024-12-04 19:16:59.734 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:17:00.854 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:17:00.855 +02:00 [INF] Data did not pass verification
+2024-12-04 19:17:00.856 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:17:01.011 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:17:01.012 +02:00 [INF] Data did not pass verification
+2024-12-04 19:17:01.013 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:17:01.149 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:17:01.149 +02:00 [INF] Data did not pass verification
+2024-12-04 19:17:01.150 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:17:46.945 +02:00 [INF] Successfully checked if the database is created.
+2024-12-04 19:17:47.105 +02:00 [INF] Data already exists in the database.
+2024-12-04 19:17:47.753 +02:00 [INF] Redirecting to the home page
+2024-12-04 19:17:47.806 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:17:50.031 +02:00 [INF] Transitioning to payment methods page method
+2024-12-04 19:17:50.031 +02:00 [INF] Fields for adding a card are excluded during loading
+2024-12-04 19:17:50.034 +02:00 [INF] Fetching user identifier
+2024-12-04 19:17:50.035 +02:00 [INF] User is logged in
+2024-12-04 19:17:50.036 +02:00 [INF] Checking if the user has a connected payment method
+2024-12-04 19:17:50.099 +02:00 [INF] Transitioning to payment methods page
+2024-12-04 19:17:50.105 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:17:50.141 +02:00 [INF] Transitioning to payment methods page method
+2024-12-04 19:17:50.141 +02:00 [INF] Fields for adding a card are excluded during loading
+2024-12-04 19:17:50.142 +02:00 [INF] Fetching user identifier
+2024-12-04 19:17:50.142 +02:00 [INF] User is logged in
+2024-12-04 19:17:50.143 +02:00 [INF] Checking if the user has a connected payment method
+2024-12-04 19:17:50.181 +02:00 [INF] Transitioning to payment methods page
+2024-12-04 19:17:50.182 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:18:06.224 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:18:06.226 +02:00 [INF] Data did not pass verification
+2024-12-04 19:18:06.228 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:18:09.481 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:18:09.482 +02:00 [INF] Data did not pass verification
+2024-12-04 19:18:09.483 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:18:09.622 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:18:09.624 +02:00 [INF] Data did not pass verification
+2024-12-04 19:18:09.625 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:18:09.755 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:18:09.756 +02:00 [INF] Data did not pass verification
+2024-12-04 19:18:09.757 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:18:11.731 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:18:11.732 +02:00 [INF] Data did not pass verification
+2024-12-04 19:18:11.733 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:18:12.137 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:18:12.138 +02:00 [INF] Data did not pass verification
+2024-12-04 19:18:12.139 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:18:12.429 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:18:12.430 +02:00 [INF] Data did not pass verification
+2024-12-04 19:18:12.430 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:18:12.643 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:18:12.644 +02:00 [INF] Data did not pass verification
+2024-12-04 19:18:12.645 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:18:18.667 +02:00 [INF] Transitioning to payment methods page method
+2024-12-04 19:18:18.668 +02:00 [INF] Fields for adding a card are excluded during loading
+2024-12-04 19:18:18.669 +02:00 [INF] Fetching user identifier
+2024-12-04 19:18:18.669 +02:00 [INF] User is logged in
+2024-12-04 19:18:18.670 +02:00 [INF] Checking if the user has a connected payment method
+2024-12-04 19:18:18.674 +02:00 [INF] Transitioning to payment methods page
+2024-12-04 19:18:18.676 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:18:19.523 +02:00 [INF] Clearing unnecessary configurations
+2024-12-04 19:18:19.525 +02:00 [INF] Redirecting to the model list page
+2024-12-04 19:18:19.533 +02:00 [INF] Entering method to navigate to the model list page
+2024-12-04 19:18:19.535 +02:00 [INF] Retrieved all possible car information
+2024-12-04 19:18:19.779 +02:00 [INF] Fetching all possible car models
+2024-12-04 19:18:19.780 +02:00 [INF] Setting all car models list as current
+2024-12-04 19:18:19.781 +02:00 [INF] Navigating to the model list page
+2024-12-04 19:18:19.789 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:19:49.455 +02:00 [INF] Entering Car method
+2024-12-04 19:19:49.456 +02:00 [INF] Retrieved car information by its make, model, and year of manufacture
+2024-12-04 19:19:49.492 +02:00 [INF] Car found, navigating to car page
+2024-12-04 19:19:49.505 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:20:06.777 +02:00 [INF] Entering car configurator transition function
+2024-12-04 19:20:06.778 +02:00 [INF] Retrieved car information by its make, model, and year of manufacture
+2024-12-04 19:20:06.782 +02:00 [INF] Car found, transitioning to car configurator page
+2024-12-04 19:20:06.790 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:20:14.876 +02:00 [INF] Entering car configuration confirmation function
+2024-12-04 19:20:14.877 +02:00 [INF] Transitioning to car payment page
+2024-12-04 19:20:14.896 +02:00 [INF] Entering method to check payment feasibility
+2024-12-04 19:20:14.897 +02:00 [INF] Fetching user ID
+2024-12-04 19:20:14.898 +02:00 [INF] Retrieving identifier of logged-in user
+2024-12-04 19:20:14.899 +02:00 [INF] User is logged in
+2024-12-04 19:20:14.900 +02:00 [INF] Retrieving logged-in user by their identifier
+2024-12-04 19:20:14.929 +02:00 [INF] Fetching user payment method data
+2024-12-04 19:20:14.930 +02:00 [INF] Fetching user identifier
+2024-12-04 19:20:14.931 +02:00 [INF] User is logged in
+2024-12-04 19:20:14.932 +02:00 [INF] Fetching payment method of the logged-in user
+2024-12-04 19:20:14.940 +02:00 [INF] User has not added a payment method
+2024-12-04 19:20:14.946 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:20:18.379 +02:00 [INF] Redirecting to the home page
+2024-12-04 19:20:18.381 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:21:22.443 +02:00 [INF] Transitioning to payment methods page method
+2024-12-04 19:21:22.445 +02:00 [INF] Fields for adding a card are excluded during loading
+2024-12-04 19:21:22.446 +02:00 [INF] Fetching user identifier
+2024-12-04 19:21:22.447 +02:00 [INF] User is logged in
+2024-12-04 19:21:22.448 +02:00 [INF] Checking if the user has a connected payment method
+2024-12-04 19:21:22.452 +02:00 [INF] Transitioning to payment methods page
+2024-12-04 19:21:22.453 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:21:38.590 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:21:38.591 +02:00 [INF] Data did not pass verification
+2024-12-04 19:21:38.592 +02:00 [INF] Displaying input fields immediately after loading
+2024-12-04 19:32:12.255 +02:00 [INF] Successfully checked if the database is created.
+2024-12-04 19:32:12.433 +02:00 [INF] Data already exists in the database.
+2024-12-04 19:32:13.125 +02:00 [INF] Redirecting to the home page
+2024-12-04 19:32:13.190 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:32:17.280 +02:00 [INF] Redirecting to the login page
+2024-12-04 19:32:17.288 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:32:39.062 +02:00 [INF] Successfully checked if the database is created.
+2024-12-04 19:32:39.253 +02:00 [INF] Data already exists in the database.
+2024-12-04 19:32:40.208 +02:00 [INF] Redirecting to the home page
+2024-12-04 19:32:40.259 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:32:46.937 +02:00 [INF] Transitioning to payment methods page method
+2024-12-04 19:32:46.938 +02:00 [INF] Fields for adding a card are excluded during loading
+2024-12-04 19:32:46.942 +02:00 [INF] Fetching user identifier
+2024-12-04 19:32:46.944 +02:00 [INF] User is logged in
+2024-12-04 19:32:46.945 +02:00 [INF] Checking if the user has a connected payment method
+2024-12-04 19:32:47.041 +02:00 [INF] Transitioning to payment methods page
+2024-12-04 19:32:47.054 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:33:03.632 +02:00 [INF] Entering payment method removal method
+2024-12-04 19:33:03.634 +02:00 [INF] Fetching user identifier
+2024-12-04 19:33:03.636 +02:00 [INF] User is logged in
+2024-12-04 19:33:03.847 +02:00 [INF] Generating random encryption key.
+2024-12-04 19:33:03.849 +02:00 [INF] Generating random initialization vector.
+2024-12-04 19:33:03.850 +02:00 [INF] Converting string to byte array.
+2024-12-04 19:33:03.851 +02:00 [INF] Encrypting data using AES encryption with random key and initialization vector.
+2024-12-04 19:33:03.859 +02:00 [INF] Combining encrypted bytes with key and initialization vector into one byte array.
+2024-12-04 19:33:03.860 +02:00 [INF] Converting result to base64 string and returning it.
+2024-12-04 19:33:03.862 +02:00 [INF] Encrypting CVV.
+2024-12-04 19:33:03.864 +02:00 [INF] Returning encrypted CVV.
+2024-12-04 19:33:03.865 +02:00 [INF] Encrypting month.
+2024-12-04 19:33:03.866 +02:00 [INF] Returning encrypted month.
+2024-12-04 19:33:03.867 +02:00 [INF] Encrypting year.
+2024-12-04 19:33:03.868 +02:00 [INF] Returning encrypted year.
+2024-12-04 19:33:03.882 +02:00 [INF] Payment method successfully added
+2024-12-04 19:33:09.641 +02:00 [INF] Clearing unnecessary configurations
+2024-12-04 19:33:09.642 +02:00 [INF] Redirecting to the model list page
+2024-12-04 19:33:09.650 +02:00 [INF] Entering method to navigate to the model list page
+2024-12-04 19:33:09.651 +02:00 [INF] Retrieved all possible car information
+2024-12-04 19:33:09.835 +02:00 [INF] Fetching all possible car models
+2024-12-04 19:33:09.836 +02:00 [INF] Setting all car models list as current
+2024-12-04 19:33:09.837 +02:00 [INF] Navigating to the model list page
+2024-12-04 19:33:09.845 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:33:11.904 +02:00 [INF] Entering Car method
+2024-12-04 19:33:11.906 +02:00 [INF] Retrieved car information by its make, model, and year of manufacture
+2024-12-04 19:33:11.940 +02:00 [INF] Car found, navigating to car page
+2024-12-04 19:33:11.949 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:33:13.753 +02:00 [INF] Entering car configurator transition function
+2024-12-04 19:33:13.754 +02:00 [INF] Retrieved car information by its make, model, and year of manufacture
+2024-12-04 19:33:13.762 +02:00 [INF] Car found, transitioning to car configurator page
+2024-12-04 19:33:13.769 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:33:17.923 +02:00 [INF] Entering car configuration confirmation function
+2024-12-04 19:33:17.925 +02:00 [INF] Transitioning to car payment page
+2024-12-04 19:33:17.941 +02:00 [INF] Entering method to check payment feasibility
+2024-12-04 19:33:17.942 +02:00 [INF] Fetching user ID
+2024-12-04 19:33:17.943 +02:00 [INF] Retrieving identifier of logged-in user
+2024-12-04 19:33:17.944 +02:00 [INF] User is logged in
+2024-12-04 19:33:17.945 +02:00 [INF] Retrieving logged-in user by their identifier
+2024-12-04 19:33:17.971 +02:00 [INF] Fetching user payment method data
+2024-12-04 19:33:17.972 +02:00 [INF] Fetching user identifier
+2024-12-04 19:33:17.974 +02:00 [INF] User is logged in
+2024-12-04 19:33:17.975 +02:00 [INF] Fetching payment method of the logged-in user
+2024-12-04 19:33:17.985 +02:00 [INF] Splitting received value into key, initialization vector, and encrypted text.
+2024-12-04 19:33:17.986 +02:00 [INF] Decrypting encrypted text with key and initialization vector.
+2024-12-04 19:33:17.987 +02:00 [INF] Returning decrypted text.
+2024-12-04 19:33:17.989 +02:00 [INF] Decrypting CVV.
+2024-12-04 19:33:17.990 +02:00 [INF] Returning decrypted CVV.
+2024-12-04 19:33:17.992 +02:00 [INF] Decrypting month.
+2024-12-04 19:33:17.993 +02:00 [INF] Returning decrypted month.
+2024-12-04 19:33:17.995 +02:00 [INF] Decrypting year.
+2024-12-04 19:33:17.996 +02:00 [INF] Returning decrypted year.
+2024-12-04 19:33:18.000 +02:00 [INF] Retrieved car information by its make, model, and year of manufacture
+2024-12-04 19:33:18.005 +02:00 [INF] Model found successfully
+2024-12-04 19:33:18.006 +02:00 [INF] Redirecting to payment confirmation
+2024-12-04 19:33:18.012 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:33:20.016 +02:00 [INF] Redirecting to method for confirming purchase payment
+2024-12-04 19:33:20.017 +02:00 [INF] Retrieving user identifier
+2024-12-04 19:33:20.018 +02:00 [INF] User is logged in
+2024-12-04 19:33:20.020 +02:00 [INF] Creating car order
+2024-12-04 19:33:20.021 +02:00 [INF] Car selected in configurator
+2024-12-04 19:33:20.121 +02:00 [INF] Order successfully added
+2024-12-04 19:33:20.122 +02:00 [INF] Order number returned
+2024-12-04 19:33:20.123 +02:00 [INF] Fetching user data
+2024-12-04 19:33:20.123 +02:00 [INF] Retrieving identifier of logged-in user
+2024-12-04 19:33:20.124 +02:00 [INF] User is logged in
+2024-12-04 19:33:20.125 +02:00 [INF] Retrieving logged-in user by their identifier
+2024-12-04 19:33:20.147 +02:00 [INF] Entering the email sending method
+2024-12-04 19:33:20.210 +02:00 [INF] Email data set for sending
+2024-12-04 19:33:21.451 +02:00 [INF] Email sent successfully
+2024-12-04 19:33:21.452 +02:00 [INF] Order information sent to email
+2024-12-04 19:33:21.453 +02:00 [INF] Redirecting to successful purchase execution page
+2024-12-04 19:33:21.458 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:33:24.719 +02:00 [INF] Redirecting to the home page
+2024-12-04 19:33:24.719 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:33:31.423 +02:00 [INF] Entering method to redirect to the order list page
+2024-12-04 19:33:31.424 +02:00 [INF] Retrieving identifier of logged-in user
+2024-12-04 19:33:31.425 +02:00 [INF] User is logged in
+2024-12-04 19:33:31.426 +02:00 [INF] Retrieving orders associated with logged-in user
+2024-12-04 19:33:31.460 +02:00 [INF] Redirecting to the order list page
+2024-12-04 19:33:31.466 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:33:38.415 +02:00 [INF] Transitioning to payment methods page method
+2024-12-04 19:33:38.416 +02:00 [INF] Fields for adding a card are excluded during loading
+2024-12-04 19:33:38.417 +02:00 [INF] Fetching user identifier
+2024-12-04 19:33:38.418 +02:00 [INF] User is logged in
+2024-12-04 19:33:38.419 +02:00 [INF] Checking if the user has a connected payment method
+2024-12-04 19:33:38.424 +02:00 [INF] Payment method is connected to the user
+2024-12-04 19:33:38.425 +02:00 [INF] Fetching user identifier
+2024-12-04 19:33:38.426 +02:00 [INF] User is logged in
+2024-12-04 19:33:38.427 +02:00 [INF] Fetching payment method of the logged-in user
+2024-12-04 19:33:38.431 +02:00 [INF] Splitting received value into key, initialization vector, and encrypted text.
+2024-12-04 19:33:38.432 +02:00 [INF] Decrypting encrypted text with key and initialization vector.
+2024-12-04 19:33:38.432 +02:00 [INF] Returning decrypted text.
+2024-12-04 19:33:38.433 +02:00 [INF] Decrypting CVV.
+2024-12-04 19:33:38.434 +02:00 [INF] Returning decrypted CVV.
+2024-12-04 19:33:38.434 +02:00 [INF] Decrypting month.
+2024-12-04 19:33:38.435 +02:00 [INF] Returning decrypted month.
+2024-12-04 19:33:38.436 +02:00 [INF] Decrypting year.
+2024-12-04 19:33:38.437 +02:00 [INF] Returning decrypted year.
+2024-12-04 19:33:38.444 +02:00 [INF] Retrieving all user payment method data
+2024-12-04 19:33:38.446 +02:00 [INF] Transitioning to payment methods page
+2024-12-04 19:33:38.447 +02:00 [INF] Successfully checked if the user is logged in
+2024-12-04 19:33:39.663 +02:00 [INF] Entering method to redirect to the order list page
+2024-12-04 19:33:39.664 +02:00 [INF] Retrieving identifier of logged-in user
+2024-12-04 19:33:39.664 +02:00 [INF] User is logged in
+2024-12-04 19:33:39.665 +02:00 [INF] Retrieving orders associated with logged-in user
+2024-12-04 19:33:39.669 +02:00 [INF] Redirecting to the order list page
+2024-12-04 19:33:39.671 +02:00 [INF] Successfully checked if the user is logged in
