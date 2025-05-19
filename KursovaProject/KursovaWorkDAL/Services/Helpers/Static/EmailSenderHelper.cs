@@ -1,4 +1,4 @@
-﻿using MailKit.Net.Smtp;
+using MailKit.Net.Smtp;
 using MailKit.Security;
 using MimeKit;
 using Serilog;
@@ -22,7 +22,7 @@ public static class EmailSenderHelper
 
         var email = new MimeMessage();
 
-        email.From.Add(new MailboxAddress("VAG Dealer", "baryaroman@ukr.net"));
+        email.From.Add(new MailboxAddress("VAG Dealer", "test7user@ukr.net"));
         email.To.Add(new MailboxAddress("Dear customer", mail));
         email.Subject = subject;
         email.Body = new TextPart("html") { Text = message };
@@ -32,7 +32,7 @@ public static class EmailSenderHelper
         using (var smtp = new SmtpClient())
         {
             smtp.Connect("smtp.ukr.net", 465, SecureSocketOptions.SslOnConnect);
-            smtp.Authenticate("baryaroman@ukr.net", "a94DSYBDuxMIT8l4");
+            smtp.Authenticate("test7user@ukr.net", "4zu512HQC5hRSQnw");
             smtp.Send(email);
             smtp.Disconnect(true);
         }
